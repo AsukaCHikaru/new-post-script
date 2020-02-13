@@ -1,0 +1,25 @@
+{
+  "name": "new-post-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsukaCHikaru/new-post-script.git"
+  },
+  "author": "asukachikaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsukaCHikaru/new-post-script/issues"
+  },
+  "homepage": "https://github.com/AsukaCHikaru/new-post-script#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4",
+    "shelljs": "^0.8.3"
+  }
+}
